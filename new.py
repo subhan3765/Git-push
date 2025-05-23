@@ -1,1 +1,1 @@
-print("final pull with one command")
+print("final push ")
