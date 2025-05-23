@@ -1,1 +1,1 @@
-print("Hello from new.py")
+print("Hello from new.py,pull kia ha")
